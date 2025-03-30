@@ -202,7 +202,7 @@ export default function Left() {
                         <div className="flex w-full h-auto items-center gap-3 py-[3px]">
                           <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
                             <span className="w-2 text-[10px]">#</span>
-                            <span className="text-banner text-[10px]">Node JS</span>
+                            <span className="text-banner text-[10px]">Script</span>
                           </div>
                           <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
                             <span className="w-2 text-[10px]">#</span>
@@ -258,11 +258,11 @@ export default function Left() {
                         <div className="flex w-full h-auto items-center gap-3 py-[3px]">
                           <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
                             <span className="w-2 text-[10px]">#</span>
-                            <span className="text-banner text-[10px]">Node JS</span>
+                            <span className="text-banner text-[10px]">Jul</span>
                           </div>
                           <div className="border-banner flex select-none flex-row items-center justify-center space-x-1 rounded-full border w-auto border-neutral-100/30 px-[7px] py-[1px] my-1">
                             <span className="w-2 text-[10px]">#</span>
-                            <span className="text-banner text-[10px]">Bot</span>
+                            <span className="text-banner text-[10px]">Jul ganteng</span>
                           </div>
                         </div>
                       </div>
