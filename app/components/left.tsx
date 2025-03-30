@@ -50,7 +50,7 @@ export default function Left() {
                       target="_blank"
                       href="https://github.com/JullGG"
                     >
-                      信じてください、無駄なことなど何もないのです
+                      -Seorang manusia biasa yang membutuhkan ketenangan 
                     </a>
                   </p>
                   <div className="mt-1 flex flex-col">
