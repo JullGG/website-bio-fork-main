@@ -48,7 +48,7 @@ export default function Left() {
                     <a
                       rel="noopener noreferrer nofollow"
                       target="_blank"
-                      href="https://github.com/JulGG"
+                      href="https://github.com/JullGG"
                     >
                       信じてください、無駄なことなど何もないのです
                     </a>
@@ -161,7 +161,7 @@ export default function Left() {
 
                       <div className="bg-animate group mb-8 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-800 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://github.com/JulGG"
+                          href="https://github.com/JullGG"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -231,13 +231,13 @@ export default function Left() {
                                     title="Nothing"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    Zafira Bot
+                                    Contact Jul
                                   </span>
                                   <span
-                                    title="Whatsapp bot"
+                                    title="contact owner"
                                     className="xs:w-[220px] truncate mt-1 w-[175px] text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    Simpel bot whatsapp - Button
+                                    Contact Jul ter tampan
                                   </span>
                                 </div>
                               </div>
@@ -282,7 +282,7 @@ export default function Left() {
               <div className="container mx-auto text-center opacity-60">
                 Thanks to <a className="text-blue-500 hover:text-opacity-50" href="https://github.com/lrmn7">L RMN7</a>
                 <p className="text-gray text-s">
-                  © 2025 lrmn7. All rights reserved.
+                  © 2025 Jul Seorang pemula
                 </p>
               </div>
             </footer>
